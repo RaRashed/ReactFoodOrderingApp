@@ -1,0 +1,28 @@
+.login-popup {
+    z-index: 1050; /* Ensure it appears above other elements */
+  }
+  
+  .login-popup-container {
+    max-width: 400px;
+  }
+  
+  .login-popup-title img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
+  
+  .login-popup-condition p {
+    font-size: 0.9rem;
+  }
+  
+  .login-popup-condition a {
+    text-decoration: underline;
+    color: #007bff;
+  }
+  
+  .login-popup-condition a:hover {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
